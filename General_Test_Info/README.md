@@ -48,6 +48,7 @@ There are 2 very important things GRE looks for:
 
 1. Basic mathematical skills.
 2. Understanding of the following:
+
   - Arithmetic.
   - Algebra.
   - Geometry.
