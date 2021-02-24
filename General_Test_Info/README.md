@@ -53,3 +53,26 @@ There are 2 very important things GRE looks for:
   - Algebra.
   - Geometry.
   - Data Analysis.
+
+
+### GRE Test structure
+
+The GRE is unique in that the test is adaptive. Each part is composed of two sections. The GRE being dynamic means that the GRE adapts its difficulty based on the previous questions you answered on the first section. **This is what can make the GRE hard.** Focusing on studying for the GRE to fulfill the target skillsets the test makers are hoping to see is crucial.
+
+The organization of the test is so that the Analytical Writing part will always come first. Then, Verbal and Quantitative Reasning sections, alongside the Unscored section, may apear in any order.
+
+There are 2 types of GRE. The online version and the paper version. The time and number of questions is somewhat different as well as the prescence of the Unscored and Research sections (more on this later).
+
+#### Online GRE
+
+The Online GRE takes about **3 Hours and 45 Minutes**. This includes a 10 minute break after the third section and 1 minute breaks after each section.
+
+| Measure | Number of Questions | Allotted Time |
+| ------- | ------------------- | ------------- |
+| **Analytical Writing** </br> (One section for both essays)| Two: Analyze and _Issue_ and _Argument_ essays| 30 minutes for each essay</br>(1 hour)|
+| **Verbal Reasoning** </br> (Two Sections) | 20 questions per section | 30 minutes per section </br> (1 hour) |
+| **Quantitative Reasoning** </br> (Two Sections) | 20 questions per section | 35 minutes per section </br> (1 hour 10 minutes) |
+| **Unscored** | 20 questions | Varies |
+| **Research** </br> (Always at the end) | Depends | Varies |
+
+Both the Unscored and Research sections are only for question-testing and ETS reseach pourposes. The Unscored Section may apear at any point after the Analytical writing part. Because of this, and the fact that is unidentified, treat the section as if it were the real section. Scores for these questions will not affect your score.
