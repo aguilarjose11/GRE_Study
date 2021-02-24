@@ -88,3 +88,38 @@ The paper GRE takes 3 hours and 30 minutes with only a single 10 minute break af
 | **Analytical Writing** </br> (One section for both essays)| Two: Analyze and _Issue_ and _Argument_ essays| 30 minutes for each essay</br>(1 hour)|
 | **Verbal Reasoning** </br> (Two Sections) | 25 questions per section | 35 minutes per section </br> (1 hour 10 minutes) |
 | **Quantitative Reasoning** </br> (Two Sections) | 25 questions per section | 40 minutes per section </br> (1 hour 20 minutes) |
+
+
+It is crucial to read the GRE's Information bulletin. This contains information on how to sign up and what to expect when at teh examination center.
+
+
+GRE Study
+---------
+
+It is crucial that when studying one focuse on each of the measurements the GRE tests for. Your study technique will depend a lot on your time alloted and learning styles.
+
+### Test Taking Tips
+
+#### Writing Section
+
+* Budget your time
+* Think about the topic throughly
+* Remind yourself of the question instructions often.
+* Plan and compose your essay by structuring with the scratch paper.
+* Leave a few minutes at the end of each essay to look for mistakes and gramatical errors.
+
+## Verbal and Quantitative Reasoning
+
+Question types:
+
+* Single choice.
+* Multiple choice.
+* Written numerical.
+
+A calculator is provided for the quantitative portion.
+
+Incorrect answers do not count against your score. Because of this, it is important that you answer all questions for the best score possible. 
+
+Do not spend too much time on a single question that is difficult or unfamiliar. Come back later. Focus on the questions you can answer now. You can only work on a single section, but you can navigate through all questions. All questons are worth the same.
+
+Use scratch paper for your own advantage.
