@@ -123,3 +123,22 @@ Incorrect answers do not count against your score. Because of this, it is import
 Do not spend too much time on a single question that is difficult or unfamiliar. Come back later. Focus on the questions you can answer now. You can only work on a single section, but you can navigate through all questions. All questons are worth the same.
 
 Use scratch paper for your own advantage.
+
+
+GRE Scoring
+-----------
+
+### Analytical Measure
+
+The score range is from 0 to 6 with increments of 0.5. Each essay is scored on the same scale but on increments of 1. The average of both essays gives the final section score.
+
+The emphasis for the scoring is on **critical thinking and analytical writing skills.**
+
+#### Computer-delivered Test
+
+
+The essays will be scored by a trained reader and a computer algorithm. If the score both give is the same or similar engough, the average of both is used as the score. If the score difference is large, a second trained reader scores the essays and the average of **Both Humans** is used.
+
+#### Paper Test
+
+The essays are scored by two trained readers. The average of both scores is used if their difference is not greater than 1. The difference is adjuncted by a third trained reader.
