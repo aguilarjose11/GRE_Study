@@ -3,6 +3,11 @@ Chapter 1: About the GRE General Test
 
 from the Official Guide to the GRE General Test.
 
+Table of contents:
+[]()
+[]()
+TODO
+
 
 Introduction
 ------------
@@ -142,3 +147,21 @@ The essays will be scored by a trained reader and a computer algorithm. If the s
 #### Paper Test
 
 The essays are scored by two trained readers. The average of both scores is used if their difference is not greater than 1. The difference is adjuncted by a third trained reader.
+
+### Verbal and Quantitative Reasoning
+
+The score range for both section is 130-170 in 1-point increments. If you answer no questions in a specific measurement (pretty rare, i guess), you recieve a No Score (NS) score.
+
+#### Computer-delivered Test
+
+The scores are calculated by obtaining a raw score. This value depends on the number of right-answered questions. To produce the final score, the raw score is put through a process known as equating where the difficulty of questions is taken into account. This is important due to the dynamic nature of the GRE. This way the scores will reflect the same level of performance regardless of the difficulty of the second section.
+
+#### Paper-delivered Test
+
+The scores are calculated with a raw score that contains the correct answers in a similar fashion as the computer-delivered test. Equating is applied here to account for problem difficulty differences accross test editions.
+
+
+Score Reporting
+----------------
+
+Scores are typically available **10-15 days** after the computer-delivered test and **within 6 weeks** for the paper delivered test. You can send your scored, given a fee, using ScoreSelect (R).
